@@ -3,7 +3,7 @@
 I'm 22 years old, I graduated in Systems Analysis and Development at FATEC.
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/EmmanoelBuonafinaTome">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmmanoelBuonafinaTome&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanoelBuonafinaTome&layout=compact&langs_count=7&theme=dracula"/>
 </div>
